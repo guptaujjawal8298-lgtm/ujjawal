@@ -6,14 +6,14 @@
 ## 🧑‍💻 About Me
 - 🌱 I’m currently learning * python, HTML, CSS, JavaScript*
 - 👨‍🎓 First-year *Computer Science Engineering* student
-- 🎯 My goal is to become a *Full Stack Developer*
+- 🎯 My goal is to become a *software engineer*
 - 📍 Based in India
 - 🕹️ I love coding, gaming, and improving my skills daily
 
 ---
 
 ## 🔧 Skills (Beginner Level)
-- *Languages:* HTML, CSS (Learning), JavaScript (soon)
+- *Languages:*python, HTML, CSS (Learning), JavaScript (soon)
 - *Tools:* VS Code, Git, GitHub
 - *Learning Path:* Web Development + DSA
 
